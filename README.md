@@ -1,4 +1,4 @@
-# Path finding from png file of a maze
+# Path finding from png file of a maze with A*
 
 Compiling:
 javac *.java
